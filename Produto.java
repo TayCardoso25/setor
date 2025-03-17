@@ -1,4 +1,5 @@
 public class Produto {
+    //Atributos
     private String descricao;
     private int quantidade;
     private double valorUnitario;

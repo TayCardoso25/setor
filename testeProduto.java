@@ -5,5 +5,9 @@ public class testeProduto {
             Produto produto = new Produto("Bisnaguinha", 20, 0.40,  'P',true);
 
             produto.imprimirProduto ();
+
+
+            //teste
+
     }
 }
